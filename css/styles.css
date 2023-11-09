@@ -1061,10 +1061,9 @@ body {
   }
 
   .menu-container .social-links-list-footer {
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     gap: 56px;
-    justify-content: space-between;
-    width: 328px;
+    justify-content: start;
   }
 }
 
